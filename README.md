@@ -1,5 +1,5 @@
 ### Hi there 👋
-  [![xngsoo96's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/xngsoo96/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xngsoo96&show_icons=true&theme=스타일)
 
 <!--
 **xngsoo96/xngsoo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
